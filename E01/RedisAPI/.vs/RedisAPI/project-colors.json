@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f21829e-9f2b-487c-bd18-e909e282fe75": {
+      "ProjectGuid": "4f21829e-9f2b-487c-bd18-e909e282fe75",
+      "DisplayName": "RedisAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

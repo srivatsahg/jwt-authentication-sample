@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fdd0516-4f57-4d6b-a8c0-57dd886d0f95": {
+      "ProjectGuid": "8fdd0516-4f57-4d6b-a8c0-57dd886d0f95",
+      "DisplayName": "BatchPrintSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
